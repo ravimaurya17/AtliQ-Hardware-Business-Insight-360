@@ -5,7 +5,7 @@ This repository contains a **Power BI dashboard and report** designed for **Atli
 ---
 
 ## Project Link
-<a href="https://app.powerbi.com/view?r=eyJrIjoiZjE3NWRmNTEtMmZkNy00OWI0LThmYTEtZDkzZmQ2MzI2ZThkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9">Click Here to visit<a>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZmZlMDc0ZWUtM2ZmYS00NjVlLWI2OWYtMDgxN2UxNDI3ZjE3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9">Click Here to visit<a>
 
 ---
 
